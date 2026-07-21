@@ -13,10 +13,10 @@ All projects, assessments, and reconnaissance exercises contained within this re
 
 ## Project Directory
 
-| Project # | Focus Area / Title | Description | Link |
-| :--- | :--- | :--- | :--- |
-| **01** | Packet Analysis & Network Fundamentals | Initial analysis of network traffic using tools like Wireshark and `pktmon`. | [View Report](./project-01-packet-analysis.md) |
-| **02** | External Footprint & Reconnaissance Report | Passive edge-infrastructure mapping utilizing DNS records, WHOIS, certificate transparency logs, and technology profiling. | [View Report](./project-02-recon-report.md) |
+| Project # | Focus Area / Title | Description |
+| :--- | :--- | :--- |
+| **01** | Packet Analysis & Network Fundamentals | Initial analysis of network traffic using tools like Wireshark and `pktmon`. |
+| **02** | External Footprint & Reconnaissance Report | Passive edge-infrastructure mapping utilizing DNS records, WHOIS, certificate transparency logs, and technology profiling. |
 
 ---
 *Maintained as part of a 90-day transition from theoretical knowledge to practical cybersecurity reporting.*
